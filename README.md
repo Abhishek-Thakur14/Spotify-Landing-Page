@@ -1,6 +1,6 @@
 Spotify Landing Page
 
-The Spotify Landing Page is a frontend project built by Abhishake using HTML, CSS, and JavaScript as part of his frontend development learning journey. This project replicates the design of Spotify's landing page, focusing on responsive layouts and interactive features.
+The Spotify Landing Page is a frontend project built by me using HTML, CSS, and JavaScript as part of his frontend development learning journey. This project replicates the design of Spotify's landing page, focusing on responsive layouts and interactive features.
 Features
 
     Clean and modern user interface.
